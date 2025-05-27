@@ -12,8 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://nitinbisht.herokuapp.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Nitin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedIn]
+[<img align="left" alt="Nitin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Nitin | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
@@ -35,8 +34,5 @@
 
 <br />
 
-<!-- [website]: https://nitinbisht.herokuapp.com/ -->
-[website]: https://www.facebook.com/n-namnt
-[instagram]: https://www.instagram.com/viettrung.1508
-[linkedin]: https://www.linkedin.com
+[linkedin]: https://www.linkedin.com/in/nathan-nguyen-b28b3b249/
 [facebook]: https://www.facebook.com/n-namnt
