@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/n-namnt" target="_blank">Nguyen Thành Nam</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/n-namnt" target="_blank">Nguyễn Thành Nam (Nathan)</a> 👋</h1>
 <p align="center">💻 A passionate Fullstack Developer | Problem Solver | Lifelong Learner</p>
 
 <p align="center">
