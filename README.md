@@ -16,15 +16,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=n-namnt&show_icons=true&count_private=true&theme=github_dark&icon_color=2d77dc&title_color=2d77dc" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-namnt&layout=compact&theme=github_dark&langs_count=8&hide=css" />
-</p>
-
----
-
 ## 🔧 Tech Stack
 
 <div align="center">
